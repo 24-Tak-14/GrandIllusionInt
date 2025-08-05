@@ -1,0 +1,15 @@
+# Project Structure
+
+- **core/**: Fundamental components and setup scripts.
+  - `setup.sh`: Initialization script.
+- **frontend/**: User interface code.
+  - **html/**: HTML files (e.g., `index.html`).
+  - **css/**: CSS stylesheets (e.g., `styles.css`).
+  - **js/**: JavaScript files (e.g., `main.js`).
+- **backend/**: Server-side code.
+  - `main.py`: Backend logic.
+- **systems/**: Complex modules.
+  - `hypocrisy_engine.py`: Hypocrisy Engine module.
+  - `emotion_analyzer.py`: Emotion Analyzer module.
+- **docs/**: Documentation.
+  - `README.md`: Project overview.
